@@ -1,4 +1,6 @@
 package java100days;
+//Get a number from user for which you need to fin the factorial, then calculate the factorial and give it as 
+//the output.
 import java.util.*;
 public class OmHambireDay10 
 {
