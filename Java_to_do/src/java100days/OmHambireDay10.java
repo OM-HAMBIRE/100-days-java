@@ -6,11 +6,11 @@ public class OmHambireDay10
 	{
 		Scanner sn=new Scanner(System.in);
 		int num=sn.nextInt();
-//		if (num<0)
-//		{
-//			System.out.println("please enter positive number");
-//		}
-//		else 
+		if (num<0)
+		{
+			System.out.println("please enter positive number");
+		}
+		else 
 		{
 		int fact=1;
 		for(int i=0;i<num;i++)

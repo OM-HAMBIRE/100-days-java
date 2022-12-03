@@ -1,5 +1,6 @@
 
 package java100days;
+//Get an input character from the user and the give the ASCII value of the given input as the output.
 import java.util.*;
 public class OmHambireDay3 {
 	public static void main(String[] args) {

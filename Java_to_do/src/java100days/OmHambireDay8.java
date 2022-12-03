@@ -1,5 +1,7 @@
 package java100days;
 import java.util.*;
+//Write a program to find roots of a quadratic equation
+
 public class OmHambireDay8 
 {
 public static void main(String[] args) {

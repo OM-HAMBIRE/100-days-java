@@ -1,4 +1,5 @@
 package java100days;
+//Get an input number from the user and check whether it is a positive or negative number
 import java.util.*;
 public class Day4 {
 	public static void main(String[] args) {
