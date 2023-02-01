@@ -18,7 +18,7 @@ if (ch<='a' && ch>='z')
 System.out.println("Alphabet");
 }
 else if(ch<='A' && ch>='Z')
-{
+{ 
 System.out.println("Alphabet");
 }
 else 
